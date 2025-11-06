@@ -14,7 +14,7 @@ Este *notebook* contém código aberto para *download* de dados dos Sistemas de 
 
 ## 📋 Instruções
 
-1. Clique no arquivo ExtractSUS_v1.3.ipynb
+1. Clique no arquivo ExtractSUS_v1.3.ipynb, disponível em https://github.com/zehgobbes/ExtractSUS/blob/main/ExtractSUS_v1.3.ipynb
 2. Clique em *Open in Colab* ou acesse https://colab.research.google.com/github/zehgobbes/ExtractSUS/blob/main/ExtractSUS_v1.3.ipynb
 3. Pressione o botão *Run all* para instalar as bibliotecas e carregar a interface. Observação: Apenas a primeira execução pode demorar alguns minutos. Aguarde!
 4. Permita acesso ao drive.
