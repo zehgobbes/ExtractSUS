@@ -25,7 +25,7 @@ Este *notebook* contém código aberto para *download* de dados dos Sistemas de 
 
 ---
 
-## Citação:
+## 📘 Citação:
 
 Se foram extraídos dados utilizando o ExtractSUS, solicitamos que realize a citação conforme abaixo, incentivando assim a atualização e manutenção do código. Desde já agradecemos!
 
