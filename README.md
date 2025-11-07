@@ -20,7 +20,7 @@ ou
 
 1. Clique no arquivo ExtractSUS_v1.0.ipynb, disponível em https://github.com/zehgobbes/ExtractSUS/blob/main/ExtractSUS_v1.0.ipynb
 2. Clique em *Open in Colab* ou acesse diretamente pelo *Google Colab*: https://colab.research.google.com/github/zehgobbes/ExtractSUS/blob/main/ExtractSUS_v1.0.ipynb
-3. Pressione o botão *Run all* para instalar as bibliotecas e carregar a interface. Observação: Apenas a primeira execução pode demorar alguns minutos. Aguarde!
+3. Pressione o botão *Run all/Executar tudo* para instalar as bibliotecas e carregar a interface. Observação: Apenas a primeira execução pode demorar alguns minutos. Aguarde!
 4. Permita acesso ao drive.
 5. Role o cursor até o final do código.
 6. Selecione os parâmetros desejados.
@@ -31,7 +31,7 @@ ou
 
 ## 📘 Citação:
 
-Se foram extraídos dados utilizando o ExtractSUS, solicitamos que realize a citação conforme abaixo, incentivando assim a atualização e manutenção do código. Desde já agradecemos!
+Caso tenha extraido dados por meio do ExtractSUS, solicitamos a utilização da citação indicada abaixo. Esse procedimento contribui para o reconhecimento, aprimoramento e manutenção contínua da ferramenta. Agradecemos antecipadamente pela colaboração!
 
 **bibitex:**
 
