@@ -1,4 +1,4 @@
-# Requirements para ExtractSUS_v1_3.ipynb
+# Requirements para ExtractSUS_v1.0.ipynb
 # Copyright (C) 2025 Cararo, J.A.G; Fonte, D.O; Zara, A.L.S.A . GNU v3.
 # https://github.com/zehgobbes/ExtractSUS
 
