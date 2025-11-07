@@ -15,6 +15,7 @@ Este *notebook* contém código aberto para *download* de dados dos Sistemas de 
 ## 📋 Instruções
 
 Acesse diretamente pelo *Google Colab*: https://colab.research.google.com/github/zehgobbes/ExtractSUS/blob/main/ExtractSUS_v1.0.ipynb
+
 ou
 
 1. Clique no arquivo ExtractSUS_v1.0.ipynb, disponível em https://github.com/zehgobbes/ExtractSUS/blob/main/ExtractSUS_v1.0.ipynb
