@@ -53,4 +53,4 @@ Se foram extraídos dados utilizando o ExtractSUS, solicitamos que realize a cit
 
 ---
 
-Copyright (C) 2025 José Gobbes. GNU v3.
+Copyright (C) 2025 Cararo, J.A.G; Fonte, D.O; Zara, A.L.S.A . GNU v3.
