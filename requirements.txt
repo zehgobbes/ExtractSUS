@@ -1,0 +1,12 @@
+# Requirements para ExtractSUS_v1_3.ipynb
+# Copyright (C) 2025 Cararo, J.A.G; Fonte, D.O; Zara, A.L.S.A . GNU v3.
+# https://github.com/zehgobbes/ExtractSUS
+
+# Biblioteca principal para download de dados do DATASUS
+git+https://github.com/AlertaDengue/PySUS.git
+
+# Interface de widgets para Jupyter Notebook
+ipywidgets>=8.0.0
+
+# Dependências do ambiente Google Colab (opcional para uso local)
+# google-colab  # Descomente se estiver usando no Google Colab
