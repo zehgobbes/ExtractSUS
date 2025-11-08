@@ -31,7 +31,7 @@ ou
 
 ## 📘 Citação:
 
-Caso tenha extraido dados por meio do ExtractSUS, solicitamos a utilização da citação indicada abaixo. Esse procedimento contribui para o reconhecimento, aprimoramento e manutenção contínua da ferramenta. Agradecemos antecipadamente pela colaboração!
+Caso tenha extraido dados por meio do ExtractSUS, solicitamos que realize a citação indicada abaixo. Este procedimento contribui para o reconhecimento, aprimoramento e manutenção contínua da ferramenta. Agradecemos antecipadamente pela colaboração!
 
 OBSERVAÇÃO: PUBLICAÇÃO AINDA EM FASE DE SUBMISSÃO!
 
