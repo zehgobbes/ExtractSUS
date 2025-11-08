@@ -38,7 +38,7 @@ OBSERVAÇÃO: PUBLICAÇÃO AINDA EM FASE DE SUBMISSÃO!
 **bibitex:**
 
 ```bibtex
-@article{cararo2025extractsus,
+@article{fonte2025extractsus,
   author    = {Fonte, D. O. and Cararo, J. A. G. and Zara, A. L. S. A.},
   title     = {ExtractSUS: Open source for automated data extraction from DataSUS},
   journal   = {Journal of Health Informatics},
