@@ -33,19 +33,44 @@ ou
 
 Caso tenha extraido dados por meio do ExtractSUS, solicitamos a utilização da citação indicada abaixo. Esse procedimento contribui para o reconhecimento, aprimoramento e manutenção contínua da ferramenta. Agradecemos antecipadamente pela colaboração!
 
+OBSERVAÇÃO: PUBLICAÇÃO AINDA EM FASE DE SUBMISSÃO!
+
 **bibitex:**
+
+@article{cararo2025extractsus,
+  author    = {Cararo, J. A. G. and Fonte, D. O. and Zara, A. L. S. A.},
+  title     = {ExtractSUS: Open source for automated data extraction from DataSUS},
+  journal   = {Journal of Health Informatics},
+  year      = {2025}
+}
 
 **ABNT:**
 
+CARARO, J. A. G.; FONTE, D. O.; ZARA, A. L. S. A. ExtractSUS: Open source for automated data extraction from DataSUS. Journal of Health Informatics, 2025.
+
 **MLA:**
+
+Cararo, J. A. G., D. O. Fonte, and A. L. S. A. Zara. "ExtractSUS: Open Source for Automated Data Extraction from DataSUS." Journal of Health Informatics, 2025.
 
 **APA:**
 
+Cararo, J. A. G., Fonte, D. O., & Zara, A. L. S. A. (2025). ExtractSUS: Open source for automated data extraction from DataSUS. Journal of Health Informatics.
+
 **Chicago:**
+
+Cararo, J. A. G., D. O. Fonte, and A. L. S. A. Zara. 2025. "ExtractSUS: Open Source for Automated Data Extraction from DataSUS." Journal of Health Informatics.
 
 **Harvard:**
 
+Cararo, J.A.G., Fonte, D.O. and Zara, A.L.S.A., 2025. ExtractSUS: Open source for automated data extraction from DataSUS. Journal of Health Informatics.
+
 **Vancouver:**
+
+Cararo JAG, Fonte DO, Zara ALSA. ExtractSUS: Open source for automated data extraction from DataSUS. Journal of Health Informatics. 2025.
+
+**IEEE:**
+
+J. A. G. Cararo, D. O. Fonte, and A. L. S. A. Zara, “ExtractSUS: Open source for automated data extraction from DataSUS,” Journal of Health Informatics, 2025.
 
 ---
 
