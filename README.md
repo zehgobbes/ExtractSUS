@@ -80,4 +80,6 @@ D. O. Fonte, J. A. G. Cararo, and A. L. S. A. Zara, “ExtractSUS: Open source f
 
 ---
 
-Copyright (C) 2025 Cararo, J.A.G; Fonte, D.O; Zara, A.L.S.A . GNU v3.
+Copyright (C) 2025 Cararo, J.A.G.; Fonte, D.O.; Zara, A.L.S.A.
+Licensed under the GNU General Public License v3.0 or later (GPL-3.0+).
+
