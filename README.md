@@ -1,7 +1,7 @@
 # 📊 ExtractSUS
 Download automatizado de dados do DATASUS.
 
-Este *notebook* contém código aberto para *download* de dados dos Sistemas de Informação em Saúde (SIS) do DATASUS de forma simples e intuitiva.
+Este *notebook* contém código aberto para *download* de dados dos Sistemas de Informação em Saúde (SIS) do DataSUS de forma simples e intuitiva.
 
 **Sistemas disponíveis:**
 - **SIM** - Sistema de Informações sobre Mortalidade
