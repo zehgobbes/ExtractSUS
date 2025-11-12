@@ -10,6 +10,16 @@ Este *notebook* contém código aberto para *download* de dados dos Sistemas de 
 - **SIA** - Sistema de Informações Ambulatoriais
 - **SIH** - Sistema de Informações Hospitalares
 
+Em caso de dúvidas, acesse o vídeo explicativo no *Youtube*:
+
+https://www.youtube.com/watch?v=5MNvC_iYTHU
+
+Código também disponível no *Code Ocean*:
+
+https://codeocean.com/capsule/5884867/tree/v1
+
+https://doi.org/10.24433/CO.5093709.v1
+
 ---
 
 ## 📋 Instruções
@@ -80,6 +90,7 @@ D. O. Fonte, J. A. G. Cararo, and A. L. S. A. Zara, “ExtractSUS: Open source f
 
 ---
 
-Copyright (C) 2025 Cararo, J.A.G.; Fonte, D.O.; Zara, A.L.S.A.
+Copyright (C) 2025 Cararo, J.A.G.; Fonte, D.O.; Zara, A.L.S.A. 
 Licensed under the GNU General Public License v3.0 or later (GPL-3.0+).
+
 
