@@ -45,6 +45,8 @@ Caso tenha extraido dados por meio do ExtractSUS, solicitamos que realize a cita
 
 OBSERVAÇÃO: PUBLICAÇÃO AINDA EM FASE DE SUBMISSÃO!
 
+Formatos: 
+
 **bibitex:**
 
 ```bibtex
