@@ -10,15 +10,27 @@ Este *notebook* contém código aberto para *download* de dados dos Sistemas de 
 - **SIA** - Sistema de Informações Ambulatoriais
 - **SIH** - Sistema de Informações Hospitalares
 
-Em caso de dúvidas, acesse o vídeo explicativo no *Youtube*:
-
-https://www.youtube.com/watch?v=5MNvC_iYTHU
-
-Código também disponível no *Code Ocean*:
-
-https://codeocean.com/capsule/5884867/tree/v1
-
+\
+\
+**Google Colab (acesso direto):** \
+https://colab.research.google.com/github/zehgobbes/ExtractSUS/blob/main/ExtractSUS_v1.0.ipynb
+\
+\
+**Github (versionamento e compartilhamento):** \
+https://github.com/zehgobbes/ExtractSUS
+\
+\
+**Code Ocean (reprodutibilidade científica):** \
+https://codeocean.com/capsule/5884867/tree/v1 \
 https://doi.org/10.24433/CO.5093709.v1
+\
+\
+**Zenodo (Vídeoaula):** \
+https://doi.org/10.5281/zenodo.18378368
+\
+\
+**Zenodo (Manual Técnico e Instrucional):** \
+https://doi.org/10.5281/zenodo.18379622
 
 ---
 
