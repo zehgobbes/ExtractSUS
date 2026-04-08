@@ -21,8 +21,8 @@ https://github.com/zehgobbes/ExtractSUS
 \
 \
 **Code Ocean (reprodutibilidade científica):** \
-https://codeocean.com/capsule/5884867/tree/v1 \
-https://doi.org/10.24433/CO.5093709.v1
+https://codeocean.com/capsule/4019234/tree/v1 \
+https://doi.org/10.24433/CO.5084727.v1
 \
 \
 **Zenodo (Vídeoaula):** \
