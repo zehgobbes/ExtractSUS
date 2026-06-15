@@ -13,7 +13,7 @@ Este *notebook* contém código aberto para *download* de dados dos Sistemas de 
 \
 \
 **Google Colab (acesso direto):** \
-https://colab.research.google.com/github/zehgobbes/ExtractSUS/blob/main/ExtractSUS_v1.1.ipynb
+https://colab.research.google.com/github/zehgobbes/ExtractSUS/blob/main/ExtractSUS_v1.0.ipynb
 \
 \
 **Github (versionamento e compartilhamento):** \
@@ -36,12 +36,12 @@ https://doi.org/10.5281/zenodo.18379622
 
 ## 📋 Instruções
 
-Acesse diretamente pelo *Google Colab*: https://colab.research.google.com/github/zehgobbes/ExtractSUS/blob/main/ExtractSUS_v1.1.ipynb
+Acesse diretamente pelo *Google Colab*: https://colab.research.google.com/github/zehgobbes/ExtractSUS/blob/main/ExtractSUS_v1.0.ipynb
 
 ou
 
-1. Clique no arquivo ExtractSUS_v1.0.ipynb, disponível em https://github.com/zehgobbes/ExtractSUS/blob/main/ExtractSUS_v1.1.ipynb
-2. Clique em *Open in Colab* ou acesse diretamente pelo *Google Colab*: https://colab.research.google.com/github/zehgobbes/ExtractSUS/blob/main/ExtractSUS_v1.1.ipynb
+1. Clique no arquivo ExtractSUS_v1.0.ipynb, disponível em https://github.com/zehgobbes/ExtractSUS/blob/main/ExtractSUS_v1.0.ipynb
+2. Clique em *Open in Colab* ou acesse diretamente pelo *Google Colab*: https://colab.research.google.com/github/zehgobbes/ExtractSUS/blob/main/ExtractSUS_v1.0.ipynb
 3. Pressione o botão (*Run all*/Executar tudo) para instalar as bibliotecas e carregar a interface. Observação: Apenas a primeira execução pode demorar alguns minutos. Aguarde!
 4. Permita acesso ao drive.
 5. Role o cursor até o final do código.
