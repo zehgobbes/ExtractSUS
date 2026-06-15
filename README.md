@@ -13,7 +13,7 @@ Este *notebook* contém código aberto para *download* de dados dos Sistemas de 
 \
 \
 **Google Colab (acesso direto):** \
-https://colab.research.google.com/github/zehgobbes/ExtractSUS/blob/main/ExtractSUS_v1.0.ipynb
+https://colab.research.google.com/github/zehgobbes/ExtractSUS/blob/main/ExtractSUS_v1.1.ipynb
 \
 \
 **Github (versionamento e compartilhamento):** \
