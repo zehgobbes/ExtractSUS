@@ -36,11 +36,11 @@ https://doi.org/10.5281/zenodo.18379622
 
 ## 📋 Instruções
 
-Acesse diretamente pelo *Google Colab*: https://colab.research.google.com/github/zehgobbes/ExtractSUS/blob/main/ExtractSUS_v1.0.ipynb
+Acesse diretamente pelo *Google Colab*: https://colab.research.google.com/github/zehgobbes/ExtractSUS/blob/main/ExtractSUS_v1.1.ipynb
 
 ou
 
-1. Clique no arquivo ExtractSUS_v1.0.ipynb, disponível em https://github.com/zehgobbes/ExtractSUS/blob/main/ExtractSUS_v1.0.ipynb
+1. Clique no arquivo ExtractSUS_v1.0.ipynb, disponível em https://github.com/zehgobbes/ExtractSUS/blob/main/ExtractSUS_v1.1.ipynb
 2. Clique em *Open in Colab* ou acesse diretamente pelo *Google Colab*: https://colab.research.google.com/github/zehgobbes/ExtractSUS/blob/main/ExtractSUS_v1.0.ipynb
 3. Pressione o botão (*Run all*/Executar tudo) para instalar as bibliotecas e carregar a interface. Observação: Apenas a primeira execução pode demorar alguns minutos. Aguarde!
 4. Permita acesso ao drive.
